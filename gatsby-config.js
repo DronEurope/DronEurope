@@ -1,5 +1,4 @@
 module.exports = {
-    pathPrefix: `/DronEurope`,
     siteMetadata: {
         title: 'Dron Europe',
     },
