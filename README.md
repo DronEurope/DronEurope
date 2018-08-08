@@ -1,1 +1,0 @@
-DronEurope mani webpage project
