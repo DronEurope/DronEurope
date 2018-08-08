@@ -41,3 +41,12 @@ public
 .cache/
 yarn.lock
 /.idea
+
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+/public
+.DS_Store
